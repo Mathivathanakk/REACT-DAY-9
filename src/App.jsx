@@ -5,8 +5,8 @@ import UseReducerHook from './Components/UseReducer.jsx/UseReducerHook';
 const App = () => {
     return (
         <div>
-            <h1>hello world</h1>
-            <CompA />
+            <h1 className='text-center'> USEREDUCER HOOK</h1>
+            {/* <CompA /> */}
             <UseReducerHook />
         </div>
     );
